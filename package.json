@@ -1,0 +1,20 @@
+{
+  "name": "mobileshopee",
+  "version": "1.0.0",
+  "description": "Học kỳ 2, Năm học 2022-2023",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sass ./sass/style.scss style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://DULINH@github.com/22-23Sem2-Courses/ct275h01-project-DULINH.git"
+  },
+  "author": "Bui Tran Duy Linh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/22-23Sem2-Courses/ct275h01-project-DULINH/issues"
+  },
+  "homepage": "https://github.com/22-23Sem2-Courses/ct275h01-project-DULINH#readme"
+}

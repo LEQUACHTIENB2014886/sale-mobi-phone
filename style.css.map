@@ -1,0 +1,16 @@
+{
+    "version": 3,
+    "sourceRoot": "",
+    "sources": [
+        "sass/style.scss",
+        "sass/include/global.scss",
+        "sass/include/type.scss",
+        "sass/include/variables.scss",
+        "sass/include/color.scss",
+        "sass/include/top-sale.scss",
+        "sass/include/special-prices.scss"
+    ],
+    "names": [],
+    "mappings": "AAAQ;AAER;ACFA;EACE;EACA;;;ACFF;EACE,aCDW;;;ADIb;EACE;;;AAGF;EACE;;;AAGF;EACE;;;AAGF;EACE;;;AEhBF;EACE,ODDc;;;ACGhB;EACE,YDJc;;;ACMhB;EACE,ODNa;;;ACQf;EACE,YDTa;;;ACYf;EACE,ODZa;;;ACef;EACE,YDhBa;;;AEDb;EACE;;AAGF;EACE;;AAGF;EACE;;AAGF;EACE;EACA;EACA;;AAGF;EACE;;AAGF;AAAA;EAEE;EACA,OF1BY;EE2BZ;EACA;;AAGF;EACE;;AAEF;EACE;;AAGF;EACE;EACA,OFxCY;EEyCZ;EACA;;;ACxCF;EACE;EACA",
+    "file": "style.css"
+}
